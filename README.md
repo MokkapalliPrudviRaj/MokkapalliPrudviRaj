@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **[ShopEase](#)**
 - 🌱 I’m learning **Angular State Management**
 - 💬 Ask me about **Angular, UI/UX, Frontend Development**
-- 📫 How to reach me: **[MailToMe](mailto:mokkapalliprudviraj@gmail.com)**
+- 📫 How to reach me: **[mokkapalliprudviraj@gmail.com](mailto:mokkapalliprudviraj@gmail.com)**
 
 ### 🛠 Tech Stack
 - **Frontend:** Angular, HTML, CSS, JavaScript
