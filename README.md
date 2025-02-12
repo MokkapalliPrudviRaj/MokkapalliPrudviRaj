@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi there! 👋 I'm Prudvi Raj Mokkapalli
+
+### 🚀 About Me
+- 🔭 I’m currently working on **[ShopEase](#)**
+- 🌱 I’m learning **Angular State Management**
+- 💬 Ask me about **Angular, UI/UX, Frontend Development**
+- 📫 How to reach me: **[MailToMe](mailto:mokkapalliprudviraj@gmail.com)**
+
+### 🛠 Tech Stack
+- **Frontend:** Angular, HTML, CSS, JavaScript
+- **UI/UX Tools:** Figma
+- **DevOps:** Azure DevOps
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/uiuxbyprudvi/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=web)](https://mokkapalliprudviraj.github.io/Personal-Portfolio/)
