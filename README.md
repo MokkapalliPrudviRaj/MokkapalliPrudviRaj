@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **[ShopEase](#)**
-- 🌱 I’m learning **Angular State Management**
 - 💬 Ask me about **Angular, UI/UX, Frontend Development**
 - 📫 How to reach me: **[mokkapalliprudviraj@gmail.com](mailto:mokkapalliprudviraj@gmail.com)**
 
