@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Prudvi Raj Mokkapalli
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[ShopEase](#)**
+- 🔭 I’m currently working on **[ShopEase](https://github.com/MokkapalliPrudviRaj/shop-ease)**
 - 💬 Ask me about **Angular, UI/UX, Frontend Development**
 - 📫 How to reach me: **[mokkapalliprudviraj@gmail.com](mailto:mokkapalliprudviraj@gmail.com)**
 
