@@ -1,31 +1,87 @@
-<!--
-**MokkapalliPrudviRaj/MokkapalliPrudviRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Prudvi Raj Mokkapalli
 
-Here are some ideas to get you started:
+🚀 **Angular Developer | UI/UX Developer**  
+💼 Infosys | Airbus Projects  
+🎨 UI-focused Frontend Engineer with strong Angular expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 👨‍💻 About Me
+- 💻 Angular Developer with **2+ years of experience** building scalable enterprise applications
+- 🎯 Specialized in **Angular (v6–20), UI/UX, Performance Optimization**
+- 🧩 Strong at converting **Figma designs into production-ready Angular apps**
+- ⚙️ Experienced in **large-scale migrations, reusable architectures, and CI/CD**
 
-# Hi there! 👋 I'm Prudvi Raj Mokkapalli
+---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **[ShopEase](https://github.com/MokkapalliPrudviRaj/shop-ease)**
-- 💬 Ask me about **Angular, UI/UX, Frontend Development**
-- 📫 How to reach me: **[mokkapalliprudviraj@gmail.com](mailto:mokkapalliprudviraj@gmail.com)**
+## 🛠️ Tech Stack
 
-### 🛠 Tech Stack
-- **Frontend:** Angular, HTML, CSS, JavaScript
-- **UI/UX Tools:** Figma
-- **DevOps:** Azure DevOps
+### Frontend
+- Angular (v6–20), TypeScript, JavaScript  
+- HTML5, CSS3, SCSS, Tailwind, Bootstrap  
+- PrimeNG, Angular Material  
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/uiuxbyprudvi/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=web)](https://mokkapalliprudviraj.github.io/Personal-Portfolio/)
+### UI / UX
+- Figma, Design Systems, Wireframes & Prototypes  
+- Responsive & Adaptive Design, Accessibility (A11y)
+
+### Advanced Angular
+- RxJS, NgRx, Signals  
+- Standalone Components, Lazy Loading  
+- Routing, Guards, Interceptors, JWT  
+- Change Detection Optimization
+
+### Tools & DevOps
+- Git, GitHub, Azure DevOps  
+- Docker, Postman, Swagger  
+
+---
+
+## 💼 Work Experience
+
+### **Infosys – Angular Developer | UI/UX Developer**  
+**Infosys, Bengaluru**  
+📅 Dec 2024 – Present  
+- Built modular Angular workflows for cabin configuration
+- Developed and maintained enterprise Angular applications with scalable, reusable architectures.
+- Translated Figma designs into responsive, production-ready UI components.
+- Integrated REST APIs, authentication, and optimized performance using modern Angular features.
+- Worked in Agile teams, contributing to CI/CD pipelines, code quality, and reliable deployments.
+
+---
+
+## 🚧 Projects
+
+### 📊 Investment Tracker (Ongoing)
+- Angular-based portfolio & tax tracking platform
+- Interactive dashboards using RxJS & Chart.js
+- REST API integration with caching & retry logic
+- JWT-based authentication & role management
+- Performance improved by **40–50%**
+
+---
+
+## 🎓 Education
+**B.Tech – Electronics & Communication Engineering**  
+Jawaharlal Nehru Technological University, Anantapur  
+📊 78%
+
+---
+
+## 📜 Certifications
+- Google UX Design Professional  
+- Infosys Certified Angular Professional  
+- Infosys Certified JavaScript Developer  
+- Infosys Certified TypeScript Developer  
+- Responsive Web Design – freeCodeCamp
+
+---
+
+## 🔗 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/uiuxbyprudvi/)
+- 🌐 [Portfolio](https://mokkapalliprudviraj.github.io/Personal-Portfolio/)
+- 📧 uiuxbyprudvi@gmail.com
+
+---
+
+⭐ *Always open to frontend challenges, Angular architecture discussions, and UI/UX collaborations.*
