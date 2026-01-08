@@ -79,7 +79,7 @@ Jawaharlal Nehru Technological University, Anantapur
 
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/uiuxbyprudvi/)
-- 🌐 [Portfolio](https://mokkapalliprudviraj.github.io/Personal-Portfolio/)
+- 🌐 [Portfolio](https://mokkapalliprudviraj.github.io/Bentofolio/)
 - 📧 uiuxbyprudvi@gmail.com
 
 ---
