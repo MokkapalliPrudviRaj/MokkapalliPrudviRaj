@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 Angular Developer with **2+ years of experience** building scalable enterprise applications
+- 💻 Angular Developer with **3.6 years of experience** building scalable enterprise applications
 - 🎯 Specialized in **Angular (v6–20), UI/UX, Performance Optimization**
 - 🧩 Strong at converting **Figma designs into production-ready Angular apps**
 - ⚙️ Experienced in **large-scale migrations, reusable architectures, and CI/CD**
