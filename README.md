@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Prudvi Raj Mokkapalli
 
-🚀 **Angular Developer | UI/UX Developer**  
+🚀 **Senior Angular Developer | UI/UX Developer**  
 💼 Infosys | Airbus Projects  
 🎨 UI-focused Frontend Engineer with strong Angular expertise
 
